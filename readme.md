@@ -2,6 +2,11 @@
 A simple tool to add subtitles to your video in the CoD MW I-III style.
 
 # Example  
+
+> [Note] Click on image.  
+<a href="https://youtu.be/nQP-xHUOZxA
+" target="_blank"><img src="http://img.youtube.com/vi/nQP-xHUOZxA/0.jpg" 
+alt="nQP-xHUOZxA" width="240" height="180" border="10" /></a>
 ![example](example.png)
 
 ### Code
