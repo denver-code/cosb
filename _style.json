@@ -1,0 +1,17 @@
+{
+    "nameColors": {
+        "enemy": "#CD716D",
+        "friednly": "#86B9E1",
+        "neutral": "#C5E3BA"
+    },
+    "textColors": {
+        "general": "#F7F7F9"
+    },
+    "styles":{
+        "stroke": 0,
+        "strokeColor": "transparent",
+        "fontSize": 24
+    },
+    "duration": 3,
+    "padding": 100
+}

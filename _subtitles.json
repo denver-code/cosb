@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Captain Price",
+        "text": "From now.... She's yours.",
+        "type": "friednly",
+        "startTime": "00:00:01"
+    },
+     {
+        "name": "Graves",
+        "text": "Alright, let's go.",
+        "type": "enemy",
+        "startTime": "00:00:02"
+    }
+]
