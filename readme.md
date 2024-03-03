@@ -17,8 +17,8 @@ add_subtitles_to_video(video_file, subtitle_file, output_file, style_file)
 
 # Installation
 ```bash
-git clone https://github.com/denver-code/COSB
-cd COSB
+git clone https://github.com/denver-code/cosb
+cd cosb
 poetry install
 ```
 
